@@ -18,14 +18,14 @@ code:-
             padding: 0px;
             background: url('bc.jpeg');
             background-repeat: no-repeat;
-            background-size: cover;
+            
         }
         .left{
              /* border: 2px solid red;*/
               display: inline-block;
               position: absolute;
-            left: 34px;
-           top: 20px;
+            left: 75px;
+           top: 40px;
 
         }
         .mid{
@@ -38,8 +38,8 @@ code:-
             
             display: inline-block;
            position: absolute;
-           right: 34px;
-           top: 20px;
+           right: 75px;
+           top: 40px;
 
         }
         .navbar{
@@ -65,7 +65,7 @@ code:-
         .btn{
             margin: 0px 9px;
             padding: 3px 4px;
-            width: 80px;
+            width: 800px;
     height: 38px;
             font-family: 'Baloo Bhai',cursive;
     background: rgb(67, 25, 114);
